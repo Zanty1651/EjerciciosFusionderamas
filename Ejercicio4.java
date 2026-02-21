@@ -2,4 +2,13 @@ public class Ejercicio4 {
     public static void main(String[] args) {
         System.out.println("Que mas pues");
     }
+
+
+
+
+
+
+    public static void caminar(){
+        System.out.println("Se acerca hacia la persona");
+    }
 }
